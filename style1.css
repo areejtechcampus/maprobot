@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+	.div1 { text-align: center;  position: relative;}
+	.div2 {  height: 160px;  width : 30%;  text-align: center; margin: 0 auto;  
+	border: 2px solid gray;}
+    
+	input.right { top: 45%;position: absolute; left : 58%;}
+	input.left {top: 45%;position: absolute; left : 36%;}
+	input.up { top: 10%; position: absolute; left : 47%;}
+	input.down {top: 75%;position: absolute; left : 47%;}
+	input.center {top: 45%;position: absolute; left : 47%;}
+    </style>
+</head>
+</style>
